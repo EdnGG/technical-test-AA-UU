@@ -1,0 +1,20 @@
+{
+  "name": "technical-test-AA-UU",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdnGG/technical-test-AA-UU.git"
+  },
+  "keywords": [],
+  "author": "Eden Gress <gresseden@gmail.com> (https://www.facebook.com/liledn.mexikn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdnGG/technical-test-AA-UU/issues"
+  },
+  "homepage": "https://github.com/EdnGG/technical-test-AA-UU#readme"
+}
