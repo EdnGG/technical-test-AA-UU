@@ -22,6 +22,23 @@ DA:2,2
 DA:5,1
 LF:2
 LH:2
+<<<<<<< HEAD
+=======
+BRF:0
+BRH:0
+end_of_record
+TN:
+SF:js/multiply/multiply.js
+FN:1,multiply
+FNF:1
+FNH:1
+FNDA:1,multiply
+DA:2,1
+DA:3,1
+DA:6,1
+LF:3
+LH:3
+>>>>>>> ed227924458fe09efbc18e6dc2fa16706c27a552
 BRF:0
 BRH:0
 end_of_record
