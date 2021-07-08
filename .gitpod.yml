@@ -1,8 +1,7 @@
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
   - name: Install  dependencies
-    init: |
-npm install  
+    init: npm install  
     command: npm run install
   - name: Run tests
     init: npm run jest --coverage
