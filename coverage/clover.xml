@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<coverage generated="1624934641011" clover="3.2.0">
-  <project timestamp="1624934641011" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="11" coveredelements="11" complexity="0" loc="8" ncloc="8" packages="3" files="3" classes="3"/>
-=======
-<coverage generated="1624939276127" clover="3.2.0">
-  <project timestamp="1624939276127" name="All files">
+<coverage generated="1625787104561" clover="3.2.0">
+  <project timestamp="1625787104561" name="All files">
     <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="15" coveredelements="15" complexity="0" loc="11" ncloc="11" packages="4" files="4" classes="4"/>
->>>>>>> ed227924458fe09efbc18e6dc2fa16706c27a552
     <package name="add">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="sum.js" path="/workspace/technical-test-AA-UU/js/add/sum.js">
@@ -19,13 +13,7 @@
     </package>
     <package name="arrays">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-<<<<<<< HEAD
       <file name="cloneArray.js" path="/workspace/technical-test-AA-UU/js/arrays/cloneArray.js">
-        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
-=======
-      <file name="cloneArray.js" path="/Users/eden/Desktop/technical-test-AA-UU/js/arrays/cloneArray.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="2" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
@@ -33,12 +21,11 @@
     </package>
     <package name="multiply">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="multiply.js" path="/Users/eden/Desktop/technical-test-AA-UU/js/multiply/multiply.js">
+      <file name="multiply.js" path="/workspace/technical-test-AA-UU/js/multiply/multiply.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
->>>>>>> ed227924458fe09efbc18e6dc2fa16706c27a552
       </file>
     </package>
     <package name="substract">
